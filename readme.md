@@ -1,3 +1,3 @@
 nama : Ibnu Fadilah
 hobby : nonton
-warna kesukaan : hitam
+warna kesukaan : biru
